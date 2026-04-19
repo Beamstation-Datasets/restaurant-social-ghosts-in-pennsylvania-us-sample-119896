@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Pennsylvania, US
 
-> Free BeamStation sample export with 55 rows and masked direct-contact fields.
+> Free BeamStation sample export with 48 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `119896` |
 | Location | Pennsylvania |
 | Category | Restaurants |
-| Full dataset size | 552 records |
-| Free sample size | 55 records (9.96%) |
-| Last export | 2026-04-08T04:43:20.635037+00:00 |
+| Full dataset size | 483 records |
+| Free sample size | 48 records (9.94%) |
+| Last export | 2026-04-15T09:19:05.086722+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-pennsylvania-us-sample-119896/releases/download/sample-latest/beamstation_119896_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
