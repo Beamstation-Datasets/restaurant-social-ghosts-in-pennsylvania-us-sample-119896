@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a4bd3905-3008-4cde-9c63-6ceb5be5138c",
+  "export_job_id": "af1d01e5-b106-4527-8b85-e236538bb23e",
   "id_short": 119896,
-  "published_at": "2026-04-19T07:44:34Z",
+  "published_at": "2026-04-22T19:14:16Z",
   "repo_name": "restaurant-social-ghosts-in-pennsylvania-us-sample-119896",
   "sample_asset_name": "beamstation_119896_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/119896/beamstation_119896_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 48,
-  "sample_sha256": "b7b50d4781262dea8dacacaf884973f37767ef67da96b1f31de4e0308fe56688",
-  "sample_size_bytes": 176119,
-  "total_records": 483
+  "sample_records": 11,
+  "sample_sha256": "2100839ede69bb28e637670ef935ca515a7ea80f42f2cf47c8c2f8b47df31f9e",
+  "sample_size_bytes": 57658,
+  "total_records": 118
 }
